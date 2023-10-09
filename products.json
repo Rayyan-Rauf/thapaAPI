@@ -1,0 +1,54 @@
+[
+    {
+      "name": "s22",
+      "price": "228",
+      "company": "samsung"
+    },
+    {
+      "name": "laptop",
+      "price": "34",
+      "company": "dell"
+    },
+    {
+      "name": "iphone",
+      "price": "66",
+      "company": "apple",
+      "featured" : "true"
+    },
+    {
+      "name": "s24",
+      "price": "94",
+      "company": "samsung",
+      "featured" : "true"
+    },
+    {
+      "name": "abcd",
+      "price": "95",
+      "company": "mi"
+    },
+    {
+      "name": "abcd",
+      "price": "96",
+      "company": "dell"
+    },
+    {
+      "name": "iphone",
+      "price": "97",
+      "company": "apple"
+    },
+    {
+      "name": "abcd",
+      "price": "98",
+      "company": "hp"
+    },
+    {
+      "name": "abcd",
+      "price": "99",
+      "company": "infinix"
+    },
+    {
+      "name": "iphone10",
+      "price": "220",
+      "company": "apple"
+    }
+]
